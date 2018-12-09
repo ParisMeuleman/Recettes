@@ -16,6 +16,8 @@
 * 1 poignee de noix
 
 # Recette
+
+## Preparation
 * Tremper les Adzukis 12h puis cuire 40 minutes
 * Fondre le beurre et le chocolat au bain marie
 * Ecraser les Adzukis
